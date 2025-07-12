@@ -25,5 +25,5 @@
 
 ### Клонирование репозитория
 ```bash
-git clone https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ.git
-cd ВАШ_РЕПОЗИТОРИЙ
+git clone https://github.com/azakmatov/jdk1-tictactoe.git
+cd jdk1-tictactoe
